@@ -183,6 +183,10 @@ button{
     margin-bottom: 40px;
 }
 
+button:hover{
+    background-color: #6c8b50;
+}
+
 a{
     color: #596D48;
     text-decoration: none;
